@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="icon.png" alt="image2tscn" width="150" />
+</p>
 # image2tscn
 Image-to-Godot-tscn
 
