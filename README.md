@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon.png" alt="image2tscn" width="150" />
+  <img src="icon.png" alt="image2tscn" width="512" />
 </p>
 # image2tscn
 Image-to-Godot-tscn
